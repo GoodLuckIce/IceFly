@@ -4,7 +4,7 @@
 #include "Wire.h"
 #include "avr\pgmspace.h"
 #include "math.h"
-#include "SoftwareSerial\SoftwareSerial.h"
+#include <SoftwareSerial.h>
 
 #include "define.h"
 
